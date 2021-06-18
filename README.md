@@ -1,2 +1,2 @@
 # gitskills
-# edit in linu
+# edit in linux.
